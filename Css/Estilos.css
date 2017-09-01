@@ -1,5 +1,11 @@
 body {
-  background-color: black;
-  color: white;
-  font-family: inherit;
+  margin: 10px;
+  background-color: aliceblue;
+  color: black;
+  font-family: Arial;
+}
+footer {
+  border-top: solid 2px black;
+  padding: 10px;
+  text-align: center;
 }
